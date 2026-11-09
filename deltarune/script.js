@@ -1,4 +1,4 @@
-    const REPO_BASE = "https://cdn.jsdelivr.net/gh/ByAlvaro19/deltarune/";
+    const REPO_BASE = "https://esm.sh/gh/ByAlvaro19/deltarune/";
     const sndMenuMove = new Audio(REPO_BASE + 'audios/snd_menumove.mp3');
     const sndSelect = new Audio(REPO_BASE + 'audios/snd_select.mp3');
 
